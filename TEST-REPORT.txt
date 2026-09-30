@@ -1,0 +1,56 @@
+VAREN ESTATE — BUILD TEST REPORT
+2026-10-01
+
+PROJECT
+- 9 HTML pages
+- 7 JavaScript files
+- 2 CSS files
+- 61 local image assets
+- No framework / npm / backend
+
+STATIC VALIDATION
+[PASS] All CSS / JS / image references exist
+[PASS] Internal HTML links checked
+[PASS] No root-absolute asset paths
+[PASS] No fetch() data loading
+[PASS] No ES Module script dependency
+[PASS] JavaScript syntax check (node --check)
+[PASS] Image alt attributes on static page images
+
+RESPONSIVE DOM VALIDATION
+Pages checked:
+- index.html
+- properties.html
+- property.html
+- areas.html
+- services.html
+- sell.html
+- about.html
+- contact.html
+- 404.html
+
+Widths checked:
+320 / 360 / 375 / 390 / 430 / 768 / 1024 / 1366 / 1440 / 1920 px
+
+[PASS] No horizontal overflow after final correction
+[PASS] No page-level JavaScript exceptions in validation render
+
+INTERACTION VALIDATION
+[PASS] Mobile menu open / close
+[PASS] Desktop property filter
+[PASS] Filter chips
+[PASS] Filter reset
+[PASS] Mobile filter drawer + apply
+[PASS] Property detail rendering by ID template
+[PASS] Property gallery lightbox
+[PASS] Demo contact form success state
+
+FILE:// COMPATIBILITY DESIGN CHECK
+- Shared data is window.PROPERTIES in js/properties.js
+- No fetch() or server API is used
+- All HTML files are at project root
+- All asset paths are relative (./css, ./js, ./images)
+- Routing uses normal .html files + query strings
+
+NOTE
+The execution sandbox used for this build blocks direct browser navigation to file:// URLs by administrator policy. Therefore file:// compatibility was validated structurally (no fetch/modules/server routing, relative paths) while visual/interaction validation was run with all project resources inlined into a browser test document.

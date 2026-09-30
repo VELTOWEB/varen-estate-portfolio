@@ -1,0 +1,85 @@
+VAREN ESTATE — IMAGE CREDITS
+
+This is a VELTOWEB portfolio concept project. Property names, prices, and listing details are fictional.
+The replacement imagery used by the website is made from real photographs hosted by Wikimedia Commons.
+Images are loaded from Wikimedia Commons via Special:FilePath so the ZIP stays lightweight. An internet connection is required to display these photographs.
+
+LOCATION PHOTOGRAPHS
+- Cheongdam Intersection.jpg — Cyberdoomslayer — CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Cheongdam_Intersection.jpg
+- Hannam-dong and Seoul Tower from across the Han.jpg — Craig Rohn — CC BY-SA 2.0
+  https://commons.wikimedia.org/wiki/File:Hannam-dong_and_Seoul_Tower_from_across_the_Han.jpg
+- Gangnam-daero in Seoul.jpg — Christophe95 — CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Gangnam-daero_in_Seoul.jpg
+- Brick storefront in Seongsu-dong.jpg — CartoonChess — CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Brick_storefront_in_Seongsu-dong.jpg
+- Seocho-dong Acrovista 20181123 140650.jpg — LERK — CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Seocho-dong_Acrovista_20181123_140650.jpg
+- COEX Center.jpg — Christophe95 — CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:COEX_Center.jpg
+- Skyscraper skyline in Seongsu-dong.jpg — CartoonChess — CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Skyscraper_skyline_in_Seongsu-dong.jpg
+- Gangnam-daero.jpg — Christophe95 — CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Gangnam-daero.jpg
+- Seoul-COEX.jpg — Erik Möller — Public domain (PD-self)
+  https://commons.wikimedia.org/wiki/File:Seoul-COEX.jpg
+- Arirang Tower in Seocho-gu, Seoul, South Korea.jpg — Michael Comella — see source page for license
+  https://commons.wikimedia.org/wiki/File:Arirang_Tower_in_Seocho-gu,_Seoul,_South_Korea.jpg
+- Back of a building in Seongsu-dong.jpg — CartoonChess — see source page for license
+  https://commons.wikimedia.org/wiki/File:Back_of_a_building_in_Seongsu-dong.jpg
+- Trees and buildings in Seongsu-dong.jpg — CartoonChess — CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Trees_and_buildings_in_Seongsu-dong.jpg
+
+SPACE / INTERIOR PHOTOGRAPHS
+- Modern luxury living room with kitchen interior.jpg — Shixart1985 — CC BY 2.0
+  https://commons.wikimedia.org/wiki/File:Modern_luxury_living_room_with_kitchen_interior.jpg
+- Modern kitchen and dining area with stylish furnishings and natural light in a contemporary home setting.jpg — Shixart1985 — CC BY 2.0
+  https://commons.wikimedia.org/wiki/File:Modern_kitchen_and_dining_area_with_stylish_furnishings_and_natural_light_in_a_contemporary_home_setting.jpg
+- A stylish living area features a modern kitchen, comfortable seating, and large windows allowing ample natural ligh.jpg — Shixart1985 — CC BY 2.0
+  https://commons.wikimedia.org/wiki/File:A_stylish_living_area_features_a_modern_kitchen,_comfortable_seating,_and_large_windows_allowing_ample_natural_ligh.jpg
+- Modern kitchen design featuring minimalistic elements, warm lighting, and high-end appliances in a contemporary setting.jpg — Shixart1985 — see source page for license
+  https://commons.wikimedia.org/wiki/File:Modern_kitchen_design_featuring_minimalistic_elements,_warm_lighting,_and_high-end_appliances_in_a_contemporary_setting.jpg
+- Modern kitchen interior featuring wooden shelving and organized dishware in a cozy setting.jpg — Shixart1985 — see source page for license
+  https://commons.wikimedia.org/wiki/File:Modern_kitchen_interior_featuring_wooden_shelving_and_organized_dishware_in_a_cozy_setting.jpg
+- Modern kitchen and dining area in a bright apartment on a sunny day with simple decor and furniture.jpg — Shixart1985 — see source page for license
+  https://commons.wikimedia.org/wiki/File:Modern_kitchen_and_dining_area_in_a_bright_apartment_on_a_sunny_day_with_simple_decor_and_furniture.jpg
+- Modern kitchen and dining area in a simple home setting showing light colors and minimal decor.jpg — Shixart1985 — see source page for license
+  https://commons.wikimedia.org/wiki/File:Modern_kitchen_and_dining_area_in_a_simple_home_setting_showing_light_colors_and_minimal_decor.jpg
+- Modern kitchen with simple design and natural light during daytime.jpg — Shixart1985 — see source page for license
+  https://commons.wikimedia.org/wiki/File:Modern_kitchen_with_simple_design_and_natural_light_during_daytime.jpg
+- Modern kitchen design showcasing open shelves and stylish decor in a contemporary home setting.jpg — Shixart1985 — see source page for license
+  https://commons.wikimedia.org/wiki/File:Modern_kitchen_design_showcasing_open_shelves_and_stylish_decor_in_a_contemporary_home_setting.jpg
+- Modern kitchen and dining area with wooden table and chairs during daytime.jpg — Nenad Stojković / Shixart1985 upload — CC BY 2.0
+  https://commons.wikimedia.org/wiki/File:Modern_kitchen_and_dining_area_with_wooden_table_and_chairs_during_daytime.jpg
+- Modern house exterior with red roof and landscaped garden under clear blue sky.jpg — Shixart1985 — CC BY 2.0
+  https://commons.wikimedia.org/wiki/File:Modern_house_exterior_with_red_roof_and_landscaped_garden_under_clear_blue_sky.jpg
+- Apartment Modern.jpg — Amuzujoe — see source page for license
+  https://commons.wikimedia.org/wiki/File:Apartment_Modern.jpg
+- Modern office space closeup.jpg — Shixart1985 — see source page for license
+  https://commons.wikimedia.org/wiki/File:Modern_office_space_closeup.jpg
+- Modern office space featuring a desk, chairs, and plants.jpg — Shixart1985 — CC BY 2.0
+  https://commons.wikimedia.org/wiki/File:Modern_office_space_featuring_a_desk,_chairs,_and_plants.jpg
+- Waiting area of a modern office.jpg — Shixart1985 — see source page for license
+  https://commons.wikimedia.org/wiki/File:Waiting_area_of_a_modern_office.jpg
+- Modern office workspace featuring a computer.jpg — Shixart1985 — see source page for license
+  https://commons.wikimedia.org/wiki/File:Modern_office_workspace_featuring_a_computer.jpg
+- Modern office workspace with a stylish desk.jpg — Shixart1985 — see source page for license
+  https://commons.wikimedia.org/wiki/File:Modern_office_workspace_with_a_stylish_desk.jpg
+- Modern office space with green plants and minimalist furniture.jpg — Shixart1985 — see source page for license
+  https://commons.wikimedia.org/wiki/File:Modern_office_space_with_green_plants_and_minimalist_furniture.jpg
+- Retail store.jpg — Henryofpelham — CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Retail_store.jpg
+- Main Retail Building Exterior 1.jpg — Rickdrew — CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Main_Retail_Building_Exterior_1.jpg
+- Modern Office.jpg — Hardik jadeja — Public domain
+  https://commons.wikimedia.org/wiki/File:Modern_Office.jpg
+
+ADVISOR / PEOPLE PHOTOGRAPHS
+- Professional woman working at desk with laptop and documents in bright office setting.jpg — Shixart1985 — CC BY 2.0
+  https://commons.wikimedia.org/wiki/File:Professional_woman_working_at_desk_with_laptop_and_documents_in_bright_office_setting.jpg
+- Business Professional (Unsplash).jpg — Heng Films — CC0 / public domain dedication
+  https://commons.wikimedia.org/wiki/File:Business_Professional_(Unsplash).jpg
+- Professional woman.jpg — Serene Wang — CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File:Professional_woman.jpg
+
+For exact license text and attribution requirements, see each linked Wikimedia Commons file page.

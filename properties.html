@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="VAREN ESTATE — 좋은 공간을 고르는 기준. 서울의 프리미엄 주거와 상업 공간을 선별합니다.">
+<title>매물 찾기 | VAREN ESTATE</title>
+<link rel="stylesheet" href="./css/style.css"><link rel="stylesheet" href="./css/responsive.css">
+</head><body class="properties-page">
+<a class="skip-link" href="#main">본문으로 바로가기</a><header class="site-header" id="siteHeader">
+  <div class="header-inner container-wide">
+    <a href="index.html" class="brand" aria-label="VAREN ESTATE 홈"><span class="brand-main">VAREN</span><span class="brand-sub">ESTATE</span></a>
+    <nav class="desktop-nav" aria-label="주요 메뉴"><a href="properties.html" class="nav-link is-active">매물</a><a href="areas.html" class="nav-link ">지역</a><a href="services.html" class="nav-link ">서비스</a><a href="sell.html" class="nav-link ">매도·임대 의뢰</a><a href="about.html" class="nav-link ">회사소개</a><a href="contact.html" class="nav-link ">상담</a></nav>
+    <button class="menu-toggle" type="button" aria-label="메뉴 열기" aria-expanded="false" aria-controls="mobileNav"><span></span><span></span></button>
+  </div>
+</header>
+<div class="mobile-nav" id="mobileNav" aria-hidden="true">
+  <div class="mobile-nav-top"><span class="mobile-nav-eyebrow">VAREN ESTATE</span><button class="mobile-nav-close" type="button" aria-label="메뉴 닫기">닫기</button></div>
+  <nav aria-label="모바일 메뉴"><a href="properties.html" class="mobile-nav-link is-active">매물</a><a href="areas.html" class="mobile-nav-link ">지역</a><a href="services.html" class="mobile-nav-link ">서비스</a><a href="sell.html" class="mobile-nav-link ">매도·임대 의뢰</a><a href="about.html" class="mobile-nav-link ">회사소개</a><a href="contact.html" class="mobile-nav-link ">상담</a></nav>
+  <div class="mobile-nav-meta"><p>좋은 공간을 고르는 기준.</p><a href="contact.html">상담 시작하기 →</a></div>
+</div>
+<main id="main"><section class="page-hero simple-hero"><div class="container reveal"><p class="eyebrow">PROPERTIES</p><h1>조건에 맞는 공간을<br>찾아보세요.</h1><p>주거부터 업무 공간까지, 목적에 맞는 매물을 한 곳에서 비교할 수 있습니다.</p></div></section>
+<section class="properties-section"><div class="container-wide">
+  <div class="desktop-filter-panel" id="desktopFilters">
+    <label class="search-field"><span>검색어</span><input id="searchInput" type="search" placeholder="매물명, 지역 검색"></label>
+    <label><span>지역</span><select id="areaFilter"><option value="">전체</option><option value="cheongdam">청담</option><option value="hannam">한남</option><option value="gangnam">강남</option><option value="seongsu">성수</option><option value="seocho">서초</option><option value="samseong">삼성</option></select></label>
+    <label><span>거래 유형</span><select id="dealFilter"><option value="">전체</option><option value="sale">매매</option><option value="jeonse">전세</option><option value="monthly">월세</option></select></label>
+    <label><span>매물 유형</span><select id="categoryFilter"><option value="">전체</option><option value="residential">프라임 주거</option><option value="officetel">오피스텔</option><option value="commercial">상업용</option></select></label>
+    <label><span>가격대</span><select id="priceFilter"><option value="">전체</option><option value="under10">10억 미만</option><option value="10to20">10–20억</option><option value="20to40">20–40억</option><option value="over40">40억 이상</option></select></label>
+    <button id="resetFilters" class="filter-reset" type="button">조건 초기화</button>
+  </div>
+  <div class="mobile-filter-bar"><button id="openMobileFilter" type="button">필터 <span id="mobileFilterCount">0</span></button><label>정렬<select id="mobileSort"><option value="latest">최신 등록순</option><option value="priceAsc">가격 낮은순</option><option value="priceDesc">가격 높은순</option><option value="areaDesc">면적 넓은순</option></select></label></div>
+  <div class="result-toolbar"><div><strong id="resultCount">총 0개의 매물을 찾았습니다.</strong><div class="filter-chips" id="filterChips"></div></div><label class="sort-control">정렬<select id="sortFilter"><option value="latest">최신 등록순</option><option value="priceAsc">가격 낮은순</option><option value="priceDesc">가격 높은순</option><option value="areaDesc">면적 넓은순</option></select></label></div>
+  <div class="property-grid property-grid-list" id="propertyGrid"></div>
+  <div class="empty-state" id="emptyState" hidden><p class="eyebrow">NO RESULTS</p><h2>조건에 맞는 매물이 없습니다.</h2><p>필터를 초기화하거나 다른 지역의 매물을 확인해보세요.</p><div><button type="button" id="emptyReset" class="btn btn-dark">조건 초기화</button><a href="areas.html" class="btn btn-light">다른 지역 보기</a></div></div>
+</div></section>
+<div class="filter-drawer" id="filterDrawer" aria-hidden="true"><div class="filter-drawer-backdrop" data-close-filter></div><div class="filter-drawer-panel" role="dialog" aria-modal="true" aria-labelledby="filterTitle"><div class="filter-drawer-head"><h2 id="filterTitle">매물 필터</h2><button type="button" data-close-filter aria-label="필터 닫기">닫기</button></div><div class="filter-drawer-body">
+<label><span>검색어</span><input id="mSearch" type="search" placeholder="매물명, 지역 검색"></label><label><span>지역</span><select id="mArea"><option value="">전체</option><option value="cheongdam">청담</option><option value="hannam">한남</option><option value="gangnam">강남</option><option value="seongsu">성수</option><option value="seocho">서초</option><option value="samseong">삼성</option></select></label><label><span>거래 유형</span><select id="mDeal"><option value="">전체</option><option value="sale">매매</option><option value="jeonse">전세</option><option value="monthly">월세</option></select></label><label><span>매물 유형</span><select id="mCategory"><option value="">전체</option><option value="residential">프라임 주거</option><option value="officetel">오피스텔</option><option value="commercial">상업용</option></select></label><label><span>가격대</span><select id="mPrice"><option value="">전체</option><option value="under10">10억 미만</option><option value="10to20">10–20억</option><option value="20to40">20–40억</option><option value="over40">40억 이상</option></select></label></div><div class="filter-drawer-actions"><button type="button" id="mobileReset" class="btn btn-light">초기화</button><button type="button" id="mobileApply" class="btn btn-dark">필터 적용</button></div></div></div></main><footer class="site-footer">
+  <div class="container footer-grid">
+    <div class="footer-brand"><a href="index.html" class="brand brand-footer"><span class="brand-main">VAREN</span><span class="brand-sub">ESTATE</span></a><p>서울의 좋은 주거와 상업 공간을 선별하고, 탐색부터 상담까지 일관된 기준으로 안내합니다.</p></div>
+    <div><h3>Navigation</h3><a href="properties.html">매물</a><a href="areas.html">지역</a><a href="about.html">회사소개</a><a href="contact.html">상담</a></div>
+    <div><h3>Service</h3><a href="services.html">프라임 주거</a><a href="services.html#commercial">상업 공간·빌딩</a><a href="sell.html">매도·임대 의뢰</a><a href="services.html#consulting">컨설팅</a></div>
+    <div><h3>Contact</h3><p>02-6200-2780</p><p>서울 강남구 도산대로 일대<br>VAREN HOUSE 4F</p><p>MON–FRI 09:30–18:30</p></div>
+  </div>
+  <div class="container footer-bottom"><span>© 2026 VAREN ESTATE. Concept Project by VELTOWEB.</span><span>Portfolio concept project. Property information is fictional; location/space photographs are real. · <a href="IMAGE-CREDITS.txt">Photo credits</a></span></div>
+</footer><div class="mobile-sticky-cta"><a href="contact.html" class="btn btn-light">상담 문의</a><a href="properties.html" class="btn btn-dark">매물 찾기</a></div>
+<script src="./js/properties.js"></script><script src="./js/favorites.js"></script><script src="./js/common.js"></script><script src="./js/properties-page.js"></script>
+</body></html>
